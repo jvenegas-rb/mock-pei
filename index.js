@@ -7,7 +7,7 @@ function getToken() {
             "method" : "GET",
             "headers": {
                 "Authorization": [
-                  "Basic SnM0cWNqR0F2aHZ5b2R5aWhHQjV2N3ZPVk5oY0c4eHk6aVlFajVOaHNEbVhpbUVSZw=="
+                  "Basic l1k2jl3kj12l3kj12l3kj132lk==="
                 ],
                 "host": [
                   "localhost:1080"
